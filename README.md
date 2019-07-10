@@ -1,1 +1,1 @@
-# Gender classification task on human face images using Naive Bayes and logistic regression classifier
+# All Assignments and Codes for Different Subjects
